@@ -1,0 +1,2 @@
+# The Purpose of this Repo
+This repo contains documentation of the research I've done on creating a [professional website](https://daemonathena.github.io/) for my Digital Humanities class and the plan for how I will make that happen.
